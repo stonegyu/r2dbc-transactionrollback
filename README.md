@@ -1,3 +1,6 @@
+This is a repository created for r2dbc issue inquiries.
+https://github.com/spring-projects/spring-data-r2dbc/issues/794
+
 see [DataR2dbcConfig](https://github.com/stonegyu/r2dbc-transactionrollback/blob/main/src/main/kotlin/com/example/r2dbctransactionrollback/configuration/DataR2dbcConfig.kt)
 
 ### Transaction rollback works fine when using this code.
