@@ -1,0 +1,8 @@
+### rollback test
+POST http://localhost:8080/samples?title=hi&rollback=true
+
+### but created sample
+GET http://localhost:8080/samples
+
+### delete all created samples
+DELETE http://localhost:8080/samples?rollback=false
